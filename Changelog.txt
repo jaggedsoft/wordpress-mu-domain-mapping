@@ -1,3 +1,7 @@
+2014-05-30 16:13 kevinlangleyjr
+
+	* Fixed deprecated warnings and errors in sunrise.php
+
 2013-03-22 10:54  donncha
 
 	* readme.txt: Bump stable tag and version tested

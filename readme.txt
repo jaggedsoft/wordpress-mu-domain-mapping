@@ -36,6 +36,9 @@ Things to remember:
 
 == Upgrade Notice ==
 
+= 0.5.4.3 =
+Fixing warnings and notices
+
 = 0.5.4.2 =
 WordPress 3.3 compatibility, bugfixes
 Set $current_site->site_name
